@@ -1,15 +1,24 @@
 ---
-abbrlink: '0'
+title: 销售与分销模块笔记
+date: '2018/2/2 15:00:00'
+tags:
+  - SAP
+  - SD
+  - PA教程
+categories:
+  - SAP
+  - PA-SD教程
+abbrlink: 3fd54d83
 ---
 # 销售与分销模块笔记 #
 
-![SD 功能概览图](/images/SAP/SD概览.png "SD 功能概览")
+![SD 功能概览图](/blog/images/SAP/SD概览.png "SD 功能概览")
 
 
 ## 一、学习顺序
 
-1. [基础组织架构](/组织架构/基础组织架构.md)
-2. [销售组织架构](/组织架构/销售组织架构.md)
+1. [基础组织架构](/blog/15fb6e7a.html)
+2. [销售组织架构](/blog/774820a8.html)
 3. 销售凭证
 4. 销售订单
 5. 订单

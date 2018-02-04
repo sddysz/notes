@@ -1,5 +1,13 @@
 ---
-abbrlink: '0'
+title: 1、SAP简介与主数据
+date: '2018/2/2 15:00:00'
+tags:
+  - SAP
+  - SD
+categories:
+  - SAP
+  - SAP销售与分销实施指南
+abbrlink: b7c5797e
 ---
 ### SAP简介与主数据
 
