@@ -1,3 +1,6 @@
+---
+abbrlink: '0'
+---
 # 销售与分销模块笔记 #
 
 ![SD 功能概览图](/images/SAP/SD概览.png "SD 功能概览")

@@ -1,3 +1,6 @@
+---
+abbrlink: '0'
+---
 # 网站推荐
 * [www.presentationload.com](http://www.presentationload.com)
     * 偏重内容设计

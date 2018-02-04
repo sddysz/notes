@@ -1,3 +1,6 @@
+---
+abbrlink: '0'
+---
 # PPT相关软件推荐
 
 * PhotoZoom Pro
